@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.example.test3" version="0.1.0">
+<widget id="kwon66.test3" version="0.1.0">
   <name>test3</name>
   <description>
     Example Tabris.js App
   </description>
-  <author email="john@example.org">
-    John Smith
+  <author email="35342223+kwon66@users.noreply.github.com">
+    kwon66
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
