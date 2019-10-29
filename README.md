@@ -42,3 +42,5 @@ The initial rules defined in `tslint.json` are supposed to warn against problema
 The app can be built using the online build service at [tabrisjs.com](https://tabrisjs.com) or locally using [Tabris.js CLI](https://www.npmjs.com/package/tabris-cli).
 
 See [Building a Tabris.js App](https://tabrisjs.com/documentation/3.2/build.html) for more information.
+"# test3" 
+"# test3" 
