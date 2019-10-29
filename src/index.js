@@ -8,7 +8,7 @@ new TextView({centerX: true, bottom: 'prev() 20', font: '24px'})
   .appendTo(contentView);
 
 function showText() {
-  $(TextView).only().text = 'Tabris.js rocks for gp! ';
+  $(TextView).only().text = 'Tabris.js rocks for gp!';
 }
 
 
